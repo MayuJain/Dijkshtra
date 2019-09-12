@@ -1,0 +1,15 @@
+8 13 U
+A B 20
+A E 10
+B E 10
+A G 90
+G E 30
+D G 20
+A D 80
+B F 10
+D F 40
+C F 50
+C D 10
+H D 10
+C H 20
+A
